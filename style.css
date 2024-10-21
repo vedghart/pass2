@@ -8,7 +8,7 @@
 }
 
 :root {
-  /* gloabal csss */
+  /* global css */
 
   --dk-red: hsl(0, 76%, 44%);
 
@@ -60,7 +60,7 @@ h1 {
   text-align: center;
 }
 
-/* dispay containre */
+/* dispay container */
 
 .display-container {
   position: relative;
